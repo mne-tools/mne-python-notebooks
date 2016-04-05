@@ -1,0 +1,9 @@
+*.fif
+*.jpg
+*.png
+*.pdf
+*.mat
+.ipynb_checkpoints
+.DS_Store
+old*
+*.html
