@@ -13,4 +13,5 @@ clean:
 
 upload:
 	scp *.html $(URL)
+	scp *.ipynb $(URL)
 	scp -r images $(URL)
